@@ -1,0 +1,2 @@
+AnaBolada;158811424;01/01/1800;Rua da ladeira quebrada, fim do mundo, Brasília; contas [-Conta 1000, do titular AnaBolada da agência de nº 0001, com saldo R$0-,-Conta 1001, do titular AnaBolada da agência de nº 0001, com saldo R$9000-]
+Fulano de tal;000000000;01/01/1800;Rua da ladeira quebrada, fim do mundo, Brasília; contas []
